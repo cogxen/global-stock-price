@@ -8,11 +8,11 @@
 
 # Global Stock Price
 
-[![Dataset Badge](https://img.shields.io/badge/dataset-global_stock_price-%23FFF8C9?style=for-the-badge)]()
+[![Dataset Badge](https://img.shields.io/badge/dataset-global_stock_price-%23FFF8C9?style=for-the-badge)](https://github.com/cogxen/global-stock-price/blob/main/assets/dataset.csv)
 
 This dataset supports trend research and the creation of investing strategies by providing historical stock price data and thorough financial metrics for a variety of international stock markets. 
 
-The **Global Stock Price Archive** is a comprehensive dataset that provides a historical record of stock prices from a wide range of stock markets across the globe. This dataset is a valuable resource for researchers, investors, and analysts seeking to analyze trends, perform financial research, or develop trading strategies.
+The **Global Stock Price** is a comprehensive dataset that provides a historical record of stock prices from a wide range of stock markets across the globe. This dataset is a valuable resource for researchers, investors, and analysts seeking to analyze trends, perform financial research, or develop trading strategies.
 
 ## Dataset Contents
 
