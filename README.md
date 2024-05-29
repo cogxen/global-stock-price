@@ -33,9 +33,9 @@ The provided dataset contains the following columns, which are described in deta
 
 - [x] **Currency and Exchange Analysis**: Assess the distribution of stock prices by currency and exchange markets, examine the distribution of companies across various currency types and exchange markets, and determine the most prevalent currencies and exchange markets within the dataset.
 - [x] **Price Distribution Analysis**: Evaluate the distribution of stock prices, including opening, highest, lowest, closing, and adjusted closing prices, as well as the volume of traded shares.
-- [x] **Correlation Analysis**: Investigate the relationship between two variables which are stock price vs trading volumes so we can understand the correlation between them.
+- [x] **Correlation Analysis**: Investigate the relationship between two variables which are stock price vs trading volumes, so we can understand the correlation between them.
 - [x] **Volume of Traded Shares**: Examine the volume of traded shares for each company, identify the companies with the highest and lowest trading volumes, and determine the companies with the most significant fluctuations in trading volume.
-- [ ] **Variability Analysis**: Measure the variability of stock prices by calculating the standard deviation for opening, highest, lowest, closing, and adjusted closing prices.
+- [x] **Variability Analysis**: Measure the variability of stock prices by calculating the standard deviation for opening, highest, lowest, closing, and adjusted closing prices.
 - [ ] **Company Analysis**: Evaluate the stock prices of individual companies, identify those with the highest and lowest prices, and determine which companies experience the most significant price changes.
 
 ## Acknowledgements
